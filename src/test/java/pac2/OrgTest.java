@@ -9,6 +9,7 @@ public class OrgTest
 	{
 		System.out.println("Execute Org TEst");
 		System.out.println("Execute Org TEst1");
+		System.out.println("Execute Org TEst2");
 	}
     @Test
 	public void modifyorgTEst()
